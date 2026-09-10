@@ -1,0 +1,29 @@
+{
+  "name": "lala-tech-operations-hub",
+  "version": "2.0.0",
+  "description": "Lala Tech Operations Hub - Request Lifecycle Operations Platform",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@types/bcryptjs": "^2.4.6",
+    "@types/node": "^22.20.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "autoprefixer": "^10.5.5",
+    "bcryptjs": "^3.0.3",
+    "lucide-react": "^1.44.0",
+    "next": "^16.3.4",
+    "postcss": "^8.5.28",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^7.0.2"
+  }
+}
